@@ -1,4 +1,4 @@
-# NutriSnap 🥗🍎
+# [NutriSnap 🥗🍎](https://paridhi3-nutrisnap-app-6nihlc.streamlit.app/)
 
 NutriSnap is a web application designed to help users track their nutritional intake by analyzing food images and providing detailed information about the food's calorie content. It leverages the power of _Google Gemini Pro Vision_ to recognize food items in images and calculate their calorie content.
 
